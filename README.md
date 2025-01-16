@@ -24,6 +24,12 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 ![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=soumyajitpadhan&theme=monokai&hide_border=true&area=true)
 
 
+### 🏆 GitHub Trophies  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soumyajitpadhan&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 ---
 
 Let’s build something amazing together! 🚀  
