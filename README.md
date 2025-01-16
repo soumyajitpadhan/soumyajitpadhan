@@ -16,8 +16,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 
 
 ### 📈 GitHub Stats  
-![Soumyajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajitpadhan&layout=compact&theme=radical)  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumyajitpadhan?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card) 
 
 ---
 
