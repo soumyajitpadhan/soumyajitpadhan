@@ -4,8 +4,8 @@
 I’m a passionate learner on my journey to becoming a full-stack web developer with a focus on the MERN stack. I enjoy solving problems, building web applications, and exploring the latest in JavaScript and ES6. I’m driven by a love for technology and a desire to create solutions that make a difference. Learning and growing daily, I believe in collaboration and staying curious about the endless possibilities in the tech world.
 
 ### 🌟 About Me 
-- 🌱 I’m currently learning **full-stack development** and mastering technologies like **React.js**, **Node.js**, and **MongoDB**.  
-- 👯 I’m looking to collaborate on exciting projects, especially in **web development**.    
+- 🌱 I’m currently learning full-stack development and mastering technologies like React.js, Node.js, Express.js, and MongoDB.
+- 👯 I want to collaborate on exciting projects, especially in **web development**.    
 - 💬 Ask me about **JavaScript**, **web development**, and anything tech-related—I’d love to connect!  
 - 📫 How to reach me: [soumyajitpadhan15@gmail.com] 
 - 😄 Pronouns: He/Him  
