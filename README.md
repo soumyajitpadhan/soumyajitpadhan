@@ -18,9 +18,11 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 ### 📈 GitHub Stats  
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumyajitpadhan?cardType=level&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card)
 
+
 ### 📅 GitHub Contribution Calendar  
 
-![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=soumyajitpadhan&theme=react-dark&hide_border=true&area=true)
+![GitHub Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=soumyajitpadhan&theme=monokai&hide_border=true&area=true)
+
 
 ---
 
