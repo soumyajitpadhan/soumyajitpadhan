@@ -16,7 +16,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 
 
 ### 📈 GitHub Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumyajitpadhan?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card) 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumyajitpadhan?cardType=level&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ---
 
