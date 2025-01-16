@@ -12,7 +12,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 - ⚡ Fun fact: I enjoy solving coding challenges and learning something new every day!  
 
 ### 🔧 Technologies & Tools  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,tailwind,react,redux,nodejs,express,MongoDB,vscode,replit,postman,netlify,vercel,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,vscode,replit,postman,netlify,vercel,git,github)](https://skillicons.dev)
 
 
 ### 📈 GitHub Stats  
