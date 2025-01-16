@@ -15,7 +15,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,CSS,js,tailwind,react,redux,nodejs,express,MongoDB,vscode,replit,postman,netlify,vercel,git,github," />
   </a>
 </p>
 
