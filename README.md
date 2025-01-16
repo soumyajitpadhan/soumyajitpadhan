@@ -6,7 +6,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 ### 🌟 About Me 
 - 🌱 I’m currently learning full-stack development and mastering technologies like React.js, Node.js, Express.js, and MongoDB.
 - 👯 I want to collaborate on exciting projects, especially in **web development**.    
-- 💬 Ask me about **JavaScript**, **web development**, and anything tech-related—I’d love to connect!  
+- 💬 Ask me about HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, Tailwind CSS, and anything tech-related—I’d love to connect!
 - 📫 How to reach me: [soumyajitpadhan15@gmail.com] 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy solving coding challenges and learning something new every day!  
