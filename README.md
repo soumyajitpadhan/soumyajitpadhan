@@ -18,9 +18,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 
 # My GitHub Stats
 
-![Grade](https://img.shields.io/badge/Grade-A-green)
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&show_icons=true&theme=monokai)
 
 
 
