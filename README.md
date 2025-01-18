@@ -16,7 +16,7 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,vscode,replit,postman,netlify,vercel,git,github)](https://skillicons.dev)
 
 
-# My GitHub Stats
+### My GitHub Stats
 
 ![soumyajitpadhan's Stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&theme=monokai&show_icons=true&hide_border=false&count_private=true)
 
