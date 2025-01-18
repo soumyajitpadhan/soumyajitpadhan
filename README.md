@@ -16,8 +16,12 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,nodejs,express,mongodb,vscode,replit,postman,netlify,vercel,git,github)](https://skillicons.dev)
 
 
-### 📈 GitHub Stats  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/soumyajitpadhan?cardType=level&theme=monokai&preferLogin=false)](https://git.io/awesome-stats-card)
+# My GitHub Stats
+
+![Grade](https://img.shields.io/badge/Grade-A-green)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&show_icons=true&theme=radical)
+
 
 
 ### 📅 GitHub Contribution Calendar  
