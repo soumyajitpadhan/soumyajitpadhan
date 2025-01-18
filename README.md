@@ -18,8 +18,9 @@ I’m a passionate learner on my journey to becoming a full-stack web developer 
 
 # My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&show_icons=true&theme=monokai)
+![soumyajitpadhan's Stats](https://github-readme-stats.vercel.app/api?username=soumyajitpadhan&theme=monokai&show_icons=true&hide_border=true&count_private=true)
 
+![soumyajitpadhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=soumyajitpadhan&theme=monokai&hide_border=true)
 
 
 ### 📅 GitHub Contribution Calendar  
